@@ -1,2 +1,2 @@
 # JavaPracticeCodes  
-just a some Practice code 
+some Practice code 
